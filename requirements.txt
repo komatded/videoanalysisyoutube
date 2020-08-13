@@ -1,0 +1,8 @@
+numpy==1.16.1
+scikit-image==0.15.0
+tensorflow==1.13.1
+youtube-dl==2020.1.15
+scenedetect==0.5
+aiohttp==3.6.2
+tqdm==4.32.2
+git+https://test:testtest@dev.mrbot.im/mrbot/mrrest.git
